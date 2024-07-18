@@ -40,5 +40,5 @@ Illustrates the percentage of wins based on toss decisions (batting first vs. fi
 #### Line Charts:
 
 Track the number of titles won by different teams over the years.
-### Conclusion
+### Conclusion:
 The IPL dashboard effectively summarizes key performance indicators of teams and players across different seasons. It provides valuable insights into team strategies, such as the impact of winning the toss and the decision to bat or field first. The consistent performance of teams like Chennai Super Kings and Mumbai Indians is evident, along with standout individual performances from top players. This analysis can help teams and analysts understand patterns and make informed decisions for future matches.
