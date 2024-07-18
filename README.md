@@ -1,6 +1,6 @@
 
 
-# Indian Premier League Analysis Dashboard
+# Indian_Premier_League_Analysis_Dashboard
 
 ### Dashboard Link : https://1drv.ms/x/c/4e93c24575f1d6e2/Ed_TSe23ivxDtQhiJtiDL7UB-THb2LPKFO7VncWTu75rIg?e=fgfoxL
 
